@@ -1,7 +1,7 @@
 👋 Hi, I'm Jullian!  
 
-Aspiring data analyst passionate about uncovering insights from data and making data-driven decisions<br>
-Currently building expertise in **Excel, Tableau, MySQL**, and soon diving into **Power BI and Python**<br>  
+Data analyst passionate about uncovering insights from data and making data-driven decisions<br>
+Currently building expertise in **Excel, PostgreSQL, MySQL**, and diving into **Power BI and Python**<br>  
 
 🌱 Learning by doing—exploring real-world projects, SQL queries, and visualization techniques<br> 
 📊 Interested in business intelligence, data storytelling, and solving real-world problems with data<br>
