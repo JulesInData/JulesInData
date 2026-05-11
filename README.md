@@ -22,7 +22,7 @@ Now I'm focused on using data to tell clear stories and support better decisions
 ---
 
 ## Projects so far
-
+- [WHO project](https://github.com/JulesInData/WHO_mncah_project) - ETL project
 - [Tech layoffs data cleaning](https://github.com/JulesInData/layoffs-sql-data-cleaning) — deduplication, string standardisation, null handling in SQL
 - [Tech layoffs exploratory analysis](https://github.com/JulesInData/layoffs-sql-eda) — company rankings, yearly trends, rolling totals with window functions
 - [LuxDev bootcamp assignments](https://github.com/JulesInData/LUXDEV_PROJECTS) — SQL, Excel and Power BI coursework
