@@ -21,14 +21,6 @@ Now I'm focused on using data to tell clear stories and support better decisions
 
 ---
 
-## What I'm working on
-
-- 🇰🇪 Kenya malnutrition dashboard using KDHS 2022 county-level data *(coming soon)*
-- 🌱 Maize yield analysis using One Acre Fund's published on-farm trial data *(coming soon)*
-- 🏥 HIV and nutrition outcomes dashboard built from my time at NASCOP *(coming soon)*
-
----
-
 ## Projects so far
 
 - [Tech layoffs data cleaning](https://github.com/JulesInData/layoffs-sql-data-cleaning) — deduplication, string standardisation, null handling in SQL
